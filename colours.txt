@@ -1,0 +1,6 @@
+dark purple 312450
+
+gradient dark 5e42a6
+gradient light b74e91
+
+header background colour 5e42a6
