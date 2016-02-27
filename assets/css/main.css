@@ -1627,7 +1627,7 @@
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
-		background-color: #b20000;
+		background-color: #a00000;
 		/*background: transparent;*/
 	}
 
@@ -3306,7 +3306,11 @@
 		}
 
 		.wrapper.style6 {
-			background-color: transparent;
+			background-color: #6b0000;
+		}
+
+		.wrapper.style7 {
+			background-color: #7a0000;
 		}
 
 		.wrapper.fullscreen {
